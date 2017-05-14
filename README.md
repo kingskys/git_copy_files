@@ -1,1 +1,1 @@
-# git_copy_files
+# qt_copy_files
